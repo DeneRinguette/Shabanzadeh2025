@@ -16,7 +16,7 @@ public class Directory
 	 * File should point to main folder containing method subfolders.
 	 */
 	
-	private static final File MAIN = new File("C:\\Users\\Dene\\Dropbox\\Zenodo");
+	private static final File MAIN = new File("C:\\Users\\Dene\\Dropbox\\Shabanzadeh2025");
 	
 	public static final File BWC = new File(MAIN, "Brain Water Content");
 	public static final File CTRD = new File(MAIN, "Confocal TR-Dextran");
